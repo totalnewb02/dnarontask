@@ -1,0 +1,6 @@
+*.xlsx
+*.txt
+*.ini
+
+# Ignore every single folder except your code files
+/*/
